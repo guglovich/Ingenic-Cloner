@@ -8,12 +8,12 @@ server is not reachable from everywhere.
 
 ## Downloads
 
-| Version | Linux (ubuntu_alpha) | Windows (windows_alpha) |
-| --- | --- | --- |
-| 2.5.80.1 | `cloner-2.5.80.1-ubuntu_alpha.tar.gz` | `cloner-2.5.80.1-windows_alpha.zip` |
-| 2.5.53   | `cloner-2.5.53-ubuntu_alpha.tar.gz`   | `cloner-2.5.53-windows_alpha.zip`   |
-| 2.5.50   | `cloner-2.5.50-ubuntu_alpha.tar.gz`   | `cloner-2.5.50-windows_alpha.zip`   |
-| 2.5.36.1 | `cloner-2.5.36.1-ubuntu_alpha.tar.gz` | `cloner-2.5.36.1-windows_alpha.zip` |
+| Version | Released | Linux (ubuntu_alpha) | Windows (windows_alpha) |
+| --- | --- | --- | --- |
+| 2.5.80.1 | 2026-10-08 | `cloner-2.5.80.1-ubuntu_alpha.tar.gz` | `cloner-2.5.80.1-windows_alpha.zip` |
+| 2.5.53   | 2024-12-27 | `cloner-2.5.53-ubuntu_alpha.tar.gz`   | `cloner-2.5.53-windows_alpha.zip`   |
+| 2.5.50   | 2024-05-29 | `cloner-2.5.50-ubuntu_alpha.tar.gz`   | `cloner-2.5.50-windows_alpha.zip`   |
+| 2.5.36.1 | 2021-09-17 | `cloner-2.5.36.1-ubuntu_alpha.tar.gz` | `cloner-2.5.36.1-windows_alpha.zip` |
 
 ## Packaging
 
